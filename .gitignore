@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Films/2025-01-06 22-05-57.mp4
+Content/Materials/M_flickeringLight.uasset
+Content/Materials/M_Neon_Orange_Inst.uasset
+Content/Materials/M_Neon_White_Instance.uasset
