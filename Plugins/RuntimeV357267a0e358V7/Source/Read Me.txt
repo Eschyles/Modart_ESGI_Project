@@ -1,0 +1,6 @@
+
+-The Module and source file names of VertexPaintDetection_Uncooked and VertexPaintDetectionPlugin are very bad, but unfortunately they can't be changed without the risk of peoples project getting compromised. The plugin started off as a simple prototype and should've thought of better naming right from the start. 
+
+
+-The ToolbarButton module is for UE5 only, since the Editor Widget cannot be opened anyway in UE4 since it has been modified in UE5. 
+You can find information on how to register physics surfaces manually etc. for UE4 on the marketplace page. 
